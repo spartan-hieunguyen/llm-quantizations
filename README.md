@@ -12,9 +12,11 @@ Most notebooks are run in kaggle/google colab.
 ### GPTQ
 - [Paper](https://arxiv.org/pdf/2210.17323.pdf)
 
+- [Example Notebook](/notebooks/GPTQ.ipynb)
 ### AWQ
 - [Paper](https://arxiv.org/pdf/2306.00978.pdf)
 
+- [Example Notebook](/notebooks/AWQ.ipynb)
 ### GGML
 - [Src repo](https://github.com/ggerganov/ggml)
 
